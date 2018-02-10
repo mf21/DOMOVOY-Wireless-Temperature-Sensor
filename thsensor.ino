@@ -1,7 +1,7 @@
 /*
   DOMOVOY Wireless Temperature Sensor firmware v.1.0a
   Specs: ATMEGA168P-AU 8MHz int, NRF24l0L+, LM75, KEYS for power control
-  rev. 2.5.3
+  rev. 1.0.alpha
 
   This is a part of the DOMOVOY project which provides a smart home technology.
   More information about the project can be found here: http://www.mf21.ru
