@@ -6,6 +6,8 @@
   This is a part of the DOMOVOY project which provides a smart home technology.
   More information about the project can be found here: http://www.mf21.ru
 
+  Choose an "Arduino Pro or Arduino Pro Mini" board with "ATmega168(3.3V, 8MHz)" processor in Arduino IDE for valid programming
+
   created 2018
   by KWL
 */
